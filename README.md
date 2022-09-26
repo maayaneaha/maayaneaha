@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**maayaneaha/maayaneaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maayane, I'm 18 and studying at Epita.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a [Gender And Sex recognition](https://github.com/maayaneaha/voice-identificator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C
+
+- 📫 How to reach me: maayane.aharouni@outlook.com (mail), Dounette#5633 (discord)
+
+- 😄 Pronouns: she/her
+
+### 📊 Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maayaneaha&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/maayaneaha/)
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maayaneaha&show_icons=true&locale=en" alt="maayaneaha" /></p>-->
+ <img src="https://komarev.com/ghpvc/?username=maayaneaha&label=Profile%20views&color=0e75b6&style=flat" alt="maayaneaha" />
