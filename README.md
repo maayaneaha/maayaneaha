@@ -2,7 +2,7 @@
 
 I'm Maayane, I'm 18 and studying at Epita.
 
-- 🔭 I’m currently working on a [Sign Language Recognition](https://github.com/maayaneaha/lsf)
+- 🔭 I’m currently working on a [Sign Language Recognition Project](https://github.com/maayaneaha/lsf)
 
 - 🌱 I’m currently learning C
 
