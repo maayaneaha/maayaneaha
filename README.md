@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Maayane, I'm 18 and studying at Epita.
 
@@ -6,7 +6,7 @@ I'm Maayane, I'm 18 and studying at Epita.
 
 - 🌱 I’m currently learning C
 
-- 📫 How to reach me: maayane.aharouni@outlook.com (mail), Dounette#5633 (discord)
+- 📫 How to reach me: maayane.aharouni@outlook.com (E-mail), Dounette#5633 (Discord)
 
 - 😄 Pronouns: she/her
 
