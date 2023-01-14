@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br><br>I'm Maayane, I'm 18 and studying at Epita.<br><br>- 🔭 I’m currently working on a [Sign Language Recognition Project](https://github.com/maayaneaha/lsf) <br><br>- 🌱 I’m currently learning C<br><br>- 📫 How to reach me: maayane.aharouni@outlook.com (E-mail), Dounette#5633 (Discord)<br><br>- 😄 Pronouns: she/her
+Hi 👋<br><br>I'm Maayane, I'm 18 and studying at Epita.<br><br>- 🔭 I’m currently working on a [ARVERNE Project (school subject)](https://github.com/maayaneaha/arverne) <br><br>- 🌱 I’m currently learning C<br><br>- 📫 How to reach me: maayane.aharouni@outlook.com (E-mail), Dounette#5633 (Discord)<br><br>- 😄 Pronouns: she/her
 
 
 ## 🌐 Socials:
